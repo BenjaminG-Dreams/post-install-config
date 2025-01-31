@@ -61,7 +61,7 @@ Then go to Agents > Roles > Add New Role
 <img src="https://i.imgur.com/MDQsMQh.png"/>
 </p>
 <p>
-Now, name the role to "Supreme Admin" and then allow all permissions in the next tab. Click "Add Role".
+Now, name the role to "TopAdmin" and then allow all permissions in the next tab. Click "Add Role".
 </p>
 <br />
 
