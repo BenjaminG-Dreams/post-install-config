@@ -5,7 +5,7 @@
 <h1>osTicket - Prerequisites</h1>
 This tutorial is a continuation of the installation of osTicket which is linked below if you have not completed it yet.</p>
 
-- [osTicket: Prerequisites and Installation](https://github.com/bvongpradith/osticket-prereqs)
+- [osTicket: Prerequisites and Installation](https://github.com/BenjaminG-Dreams/osticket-prereqs)
 
 <h2>Environments and Technologies Used in Tutorial</h2>
 
@@ -172,7 +172,7 @@ Now, navigate to "Help Topics" and add the following help topics:
 - Password Reset/ Report Problem
 
 
-
+<h1>Stay Tuned for osTicket: Ticket Lifecycle Example!</h1>
 
 
 
